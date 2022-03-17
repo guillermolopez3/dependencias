@@ -54,8 +54,3 @@ export 'package:multiple_localization/multiple_localization.dart';
 export 'package:algolia/algolia.dart';
 export 'package:barcode_widget/barcode_widget.dart';
 
-//dev dependencies
-export 'package:bloc_test/bloc_test.dart';
-export 'package:mocktail/mocktail.dart';
-export 'package:build_runner/build_runner.dart';
-export 'package:modular_test/modular_test.dart';
